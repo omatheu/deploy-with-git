@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git --git-dir="C:\Users\Inteli\Desktop\dev\git-avançado\servidor" --work-tree="C:\Users\Inteli\Desktop\dev\git-avançado\web" checkout -f
